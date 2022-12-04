@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Department of Engineering "Enzo Ferrari", Modena, Italy
+subtitle: <a href='#'>Affiliations</a>. Department of Engineering "Enzo Ferrari", UNIMORE, Italy
 
 profile:
   align: right
