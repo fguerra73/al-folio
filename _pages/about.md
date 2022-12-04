@@ -6,8 +6,8 @@ subtitle: <a href='#'>Affiliations</a>. Department of Engineering "Enzo Ferrari"
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: foto_guerra.png
+  image_circular: true # crops the image to make it circular
   address: >
     <p>MO 27, Office MO-27-01-034</p>
     <p>c/o DIEF, via Vivarelli 12</p>
