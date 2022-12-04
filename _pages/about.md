@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Department of Engineering "Enzo Ferrari", UNIMORE, Italy
+subtitle: <a href='#'>Affiliation</a>. Department of Engineering "Enzo Ferrari", UNIMORE, Italy
 
 profile:
   align: right
@@ -17,7 +17,7 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-## Short Bio
+#### Short Bio
 - I received my PhD in information engineering at the University of Modena and Reggio Emilia in 2003.
 
 - From November 2005 to June 2012, I was Assistant Professor on computer engineering at the Faculty of Economics from the University of Modena and Reggio Emilia, where I taught computer science and enterprise information.
@@ -27,6 +27,11 @@ social: true  # includes social icons at the bottom of the page
 - From November 2015 to August 2022 I was Associate Professor at the Department of Engineering “Enzo Ferrari”, of the University of Modena and Reggio Emilia.  I taught Software Engineering and Big Data Analysis.
 
 - Since September 2022, I'm Full Professor at the Department of Engineering “Enzo Ferrari”, of the University of Modena and Reggio Emilia.  I teach Software Engineering and Big Data Analysis.
+
+#### Research Interests
+
+My main research interests include scalable data management and integration, (he is working on the development of Machine Learning and Deep Learning explainable techniques to the Entity Resolution problem), semantic web (he is involved in projects for the creation and alignment of ontologies), keyword based searches on structured datasets, NLP and data mining and analytics on big data (he is working on techniques for anomaly and novelty detection, for supporting machine learning techniques in production).
+
 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
