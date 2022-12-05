@@ -32,6 +32,12 @@ social: true  # includes social icons at the bottom of the page
 
 My main research interests include scalable data management and integration, (I'm working on the development of Machine Learning and Deep Learning explainable techniques for the Entity Resolution problem), semantic web (I'm involved in projects for the creation and alignment of ontologies), keyword based searches on structured datasets, NLP and data mining and analytics on big data (I'm working on techniques for anomaly and novelty detection, for supporting machine learning techniques in production).
 
+#### Education
+
+- Ph.D. in Information Engineering (2004). University of Modena and Reggio Emilia, Italy
+- Master Degree in Information Engineering (2000). University of Modena and Reggio Emilia, Italy
+- Diploma di Maturità Classica (1992). Liceo Classico “L. A. Muratori”, Modena, Italy
+
 
 #### Institutional Web Page at UNIMORE
 
