@@ -25,18 +25,13 @@ His main research interests include scalable data management and integration, (h
 
 He participated in European and national projects. In particular, he coordinated the KEYSTONE COST Action, years 2013-2017, (IC 1302 KEYSTONE COST Action– Semantic Keyword Search on Structured Data Sources), and the Re-search Alps (INEA/CEF/ICT/A2016/1296967) project, years 2017-2019. He was Visiting Professor at the University of Rijeka in 2019. He is a visiting reviewer for the AI thesis at the University of Malta.
 
-#### Accademic Positions
+#### Accademic Position
 
 - Since September 2022, I'm Full Professor at the Department of Engineering “Enzo Ferrari”, of the University of Modena and Reggio Emilia.  I teach Software Engineering and Big Data Analysis.
 
-- From November 2015 to August 2022 I was Associate Professor at the Department of Engineering “Enzo Ferrari”, of the University of Modena and Reggio Emilia.  I taught Software Engineering and Big Data Analysis.
+- Since November 1, President of the bachelor and master's degree course councils in computer engineering at the Department of Engineering "Enzo Ferrari".
 
-- From July 2012 to October 2015 I was Assistant Professor on computer science at the Department of Engineering “Enzo Ferrari” of the University of Modena and Reggio Emilia.
-
-- From November 2005 to June 2012, I was Assistant Professor on computer engineering at the Faculty of Economics from the University of Modena and Reggio Emilia, where I taught computer science and enterprise information.
-
-- I received my PhD in information engineering at the University of Modena and Reggio Emilia in 2003.
-
+- Since 2021, Coordinator of the curriculum of Computer Engineering and Science of the Doctorate Course in ICT at the University of Modena and Reggio Emilia.
 
 
 #### Research Interests
