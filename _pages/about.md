@@ -19,9 +19,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 #### Short Bio
 
-Francesco Guerra is Full Professor at the Department of Engineering “Enzo Ferrari” from the University of Modena and Reggio Emilia, where he teaches Software Engineering and Big Data Analysis. 
+I'm Full Professor at the Department of Engineering “Enzo Ferrari” from the University of Modena and Reggio Emilia, where he teaches Software Engineering and Big Data Analysis. 
 
-His main research interests include scalable data management and integration, (he is working on the development of Machine Learning and Deep Learning explainable techniques to the Entity Resolution problem), semantic web (he is involved in projects for the creation and alignment of ontologies), keyword based searches on structured datasets and data mining and analytics on big data (he is working on techniques for anomaly and novelty detection, for supporting machine learning techniques in production). 
+My research interests include **scalable data management and integration** (he is working on the development of Machine Learning and Deep Learning explainable techniques to the Entity Resolution problem), semantic web (he is involved in projects for the creation and alignment of ontologies), keyword based searches on structured datasets and data mining and analytics on big data (he is working on techniques for anomaly and novelty detection, for supporting machine learning techniques in production). 
 
 He participated in European and national projects. In particular, he coordinated the KEYSTONE COST Action, years 2013-2017, (IC 1302 KEYSTONE COST Action– Semantic Keyword Search on Structured Data Sources), and the Re-search Alps (INEA/CEF/ICT/A2016/1296967) project, years 2017-2019. He was Visiting Professor at the University of Rijeka in 2019. He is a visiting reviewer for the AI thesis at the University of Malta.
 
