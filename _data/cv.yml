@@ -2,19 +2,19 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Francesco Guerra
     - name: Date of Birth
-      value: 14th March 1879
+      value: 21st May 1973
     - name: Languages
-      value: English, German
+      value: Italian, English, French
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
+    - title: PhD in Information Engineering
+      institution: University of Modena and Reggio Emilia, Italy
+      year: 2004
+      <!--description:
         - Description 1.
         - Description 2.
         - title: Description 3.
@@ -26,7 +26,7 @@
       year: 1900
       description:
         - Description 1.
-        - Description 2.
+        - Description 2.-->
 
 - title: Experience
   type: time_table
