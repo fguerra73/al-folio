@@ -43,7 +43,10 @@ The course will provide the main theoretical technological and applicative knowl
 
 ### Overview
 The amount of data that can be analyzed now is enormous. "Data science" is the research field where techniques are studied and applied to extract information, analyze contents and discover new knowledge from large data sources (big data) to obtain a competitive advantage. Data science is therefore of paramount importance both for the business and for the research.
-The course intends to have a practical orientation and includes a series of activities through which the fundamental techniques of big data analysis will be introduce. This includes algorithms for data management (eg, MapReduce), application of data mining algorithms and statistical modeling, lexical text analysis (NLP) applications. The course proposes the development of simple programs with the Python language (in particular and pandas and scikit-learn libraries).
+
+The course intends to have a practical orientation and includes a series of activities through which the fundamental techniques of big data analysis will be introduce. This includes algorithms for data management (eg, MapReduce), application of data mining algorithms and statistical modeling, lexical text analysis (NLP) applications. 
+
+The course proposes the development of simple programs with the Python language (in particular and pandas and scikit-learn libraries).
 Through this course students:
 	- know the major technological, scientific and application trends connected with big data and data science.
 	- model data analysis problems and propose approaches for their resolution.
@@ -65,5 +68,6 @@ Through this course students:
 	8. Elements of Time Series Analysis and anomaly detection 
 
 Laboratory 
+
 	1. Pandas: representation and management of tabular data. Preprocessing and feature engineering.
 	2. Scikit-learn: application of classification and regression techniques, model evaluation, feature engineering, pipeline construction and evaluation.
