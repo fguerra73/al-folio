@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /thesis/
-title: Thesis
+title: thesis
 description: thesis
 nav: false
 nav_order: 5
@@ -15,17 +15,21 @@ Organize your courses by years, topics, or universities, however you like!-->
 ## Advisor in Master Thesis (Dipartimento di Ingegneria “Enzo Ferrari”)
 A.A. 2013-14
 -	BERNABEI  CHIARA Uso di tecniche di Network Analysis per migliorare la ricerca per keyword (Aprile 2015).
+
 A.A. 2014-15
 -	CADEGNANI SARA	Raccomandazione di pagine Web:  un approccio Item Based Collaborative Filtering (Luglio 2015)
 -	MAZZA FEDERICA	Predire lo stato d'animo evocato da una canzone attraverso l'analisi del testo (Ottobre 2015)
+
 A.A. 2015-16
 -	ZAVARONI ANDREA Keyword Search su database relazionali attraverso tecniche di Information Retrieval (Aprile 2017)
+
 A.A. 2016-17
 -	PAGANELLI  MATTEO	Studio di algoritmi per il calcolo parallelo di full disjunction (Ottobre 2017)
 -	GIORGI GRAZIANO	Studio e realizzazione di un Hybrid Recommender System per una biblioteca (Dicembre 2017)
 -	CACCIOTTOLI  GIUSEPPE	Sviluppo di un sistema per la rilevazione di dati anomali in un warehouse management system (Febbraio 2018)
 -	MINTHE  EL HADJ TAHIROU	Evaluation of different visualization tools and approaches forbgp maps (Febbraio 2018)
 -	SIPIONE GABRIELE	Studio ed implementazione di tecniche di keyword search su database relazionali (Febbraio 2018)
+
 A.A. 2017-18
 --	FRIGIERI  MARCO	Applicazione di tecniche di analisi testuale per la valutazione merceologica della composizione degli acquisti (Luglio 2018)
 -	SALA  STEFANO	Ricerca per keyword in database relazionali tramite MongoDB (Luglio 2018)
@@ -35,6 +39,7 @@ A.A. 2017-18
 -	FAVALI FILIPPO	Usare le infobox per predire le categorie delle organizzazioni in Wikipedia (Aprile 2019)
 -	GIBERTINI FABIO	Sviluppo di un classificatore interattivo basato sull'algoritmo Naïve Bayes (aprile 2019)
 -	LUPPI ALESSANDRO	Sperimentazione di tecniche di topic detection e classificazione di organizzazioni sulla base delle loro pagine web (Aprile 2019)
+
 A.A. 2018-19
 -	DEL BUONO FRANCESCO	Automatic Behavior Analysis in Planet-Scale Systems (Ottobre 2019)
 -	FUNARO LUIGI	Implementazione e testing di algoritmi di Entity Resolution basati su regole (Ottobre 2019)
@@ -43,6 +48,7 @@ A.A. 2018-19
 -	PICCININI MATTEO	Confronto di metodi custom e cloud per il riconoscimento di assegni non trasferibili in Credem Banca. (Ottobre 2019)
 -	MUCCIARINI MIRKO	Analisi dei flussi informativi legati ai processi logistici dell'azienda Mirage Granito Ceramico SPA (Aprile 2020)
 -	STORCHI NICOLA	L'automazione del processo di patch management (Aprile 2020)
+
 A.A. 2019-20
 -	LEONE GIORGIA 	Tecniche di Information Retrieval Spazio-Temporale su Grafi RDF (Luglio 2020)
 -	ARTONI ANDREA	Data Mining in Zapi (Ottobre  2020)
@@ -56,6 +62,7 @@ A.A. 2019-20
 -	MARRACCINI CLAUDIA	Studio E Sperimentazione Di Tecniche Per La Categorizzazione Di Testi Brevi:  Il Caso D'uso Degli Articoli Scientifici (Aprile 2021)
 -	MERCALLI FEDERICO	Search Intent Tool:  Predire L’intento Di Ricerca Associato Ad Una Keyword (Aprile 2021)
 -	SPINAZZOLA ANDREA	Utilizzo Di Tecniche Di Topic Modelling Applicate A Comunicati Stampa (Aprile 2021)
+
 A.A. 2019-20
 -	PICCOLO RICCARDO Doyle:  il modulo per l'estrazione e analisi di dati da un social network (Giugno 2021)
 -	DENTI LUCA Realizzazione di un page builder con la tecnologia React presso webranking (Ottobre 2021)

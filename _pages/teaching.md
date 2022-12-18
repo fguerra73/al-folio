@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Software Engineering & Big Data and text Analytics @ UNIMORE
-nav: true
+nav: false
 nav_order: 5
 ---
 
