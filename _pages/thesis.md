@@ -2,7 +2,7 @@
 layout: page
 permalink: /thesis/
 title: thesis
-description: thesis
+description: 
 nav: false
 nav_order: 5
 ---
