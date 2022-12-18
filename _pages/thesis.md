@@ -31,7 +31,7 @@ A.A. 2016-17
 -	SIPIONE GABRIELE	Studio ed implementazione di tecniche di keyword search su database relazionali (Febbraio 2018)
 
 A.A. 2017-18
---	FRIGIERI  MARCO	Applicazione di tecniche di analisi testuale per la valutazione merceologica della composizione degli acquisti (Luglio 2018)
+-	FRIGIERI  MARCO	Applicazione di tecniche di analisi testuale per la valutazione merceologica della composizione degli acquisti (Luglio 2018)
 -	SALA  STEFANO	Ricerca per keyword in database relazionali tramite MongoDB (Luglio 2018)
 -	ALBERI  NICOLÒ	Sviluppo di un processo elaborativo in una architettura a micro-servizi (Ottobre 2018)
 -	GASPARINI  NICOLÒ	Studio Keyword Tool:  Una web application basata su tecniche di  Natural Language Processing e Machine Learning  a supporto del Search Engine (Ottobre 2018)
