@@ -58,7 +58,7 @@
   contents:
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.-->
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics. -->
 
 <!-- - title: Honors and Awards
   type: time_table
@@ -69,7 +69,7 @@
         - Matteucci Medal
     - year: 2029
       items: 
-        - Max Planck Medal-->
+        - Max Planck Medal -->
 
 - title: Academic Interests
   type: nested_list
