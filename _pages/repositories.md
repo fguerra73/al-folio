@@ -27,7 +27,9 @@ nav_order: 3
 
 ## youtube account:
 
-[softlab-unimore](https://github.com/softlab-unimore)
+[softlab-unimore](https://www.youtube.com/@softlab-unimore2549/featured)
+
+
 ---
 
 
