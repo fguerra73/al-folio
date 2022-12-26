@@ -17,11 +17,17 @@ nav_order: 3
 
 {% endif %}
 
+
+## github repository:
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-github repository:
+[softlab-unimore](https://github.com/softlab-unimore)
 </div>
 
-[softlab-unimore](https://github.com/softlab-unimore).
+
+
+## youtube account:
+
+[softlab-unimore](https://github.com/softlab-unimore)
 ---
 
 
