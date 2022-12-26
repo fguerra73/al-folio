@@ -18,11 +18,6 @@ nav_order: 3
 {% endif %}
 
 
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-Youtube
-
-https://www.youtube.com/@softlab-unimore2549/featured
-</div>
 ---
 
 
