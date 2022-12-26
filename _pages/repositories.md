@@ -7,7 +7,6 @@ nav: true
 nav_order: 3
 ---
 
-## GitHub users
 
 {% if site.data.repositories.github_users %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -18,16 +17,16 @@ nav_order: 3
 {% endif %}
 
 
-## github repository:
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-[softlab-unimore](https://github.com/softlab-unimore)
-</div>
+## GitHub repository:
+
+#### [softlab-unimore](https://github.com/softlab-unimore)
+
 
 
 
 ## youtube account:
 
-[softlab-unimore](https://www.youtube.com/@softlab-unimore2549/featured)
+####  [softlab-unimore](https://www.youtube.com/@softlab-unimore2549/featured)
 
 
 ---
