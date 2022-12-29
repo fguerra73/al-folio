@@ -24,7 +24,7 @@ nav_order: 3
 
 
 
-## youtube account:
+## Youtube account:
 
 ####  [softlab-unimore](https://www.youtube.com/@softlab-unimore2549/featured)
 
