@@ -3,7 +3,7 @@ layout: page
 title:  Entity Matching
 description: Development of Machine Learning and Deep Learning Techniques for Entity Matching
 img:
-importance: 4
+importance: 1
 category: work
 ---
 
