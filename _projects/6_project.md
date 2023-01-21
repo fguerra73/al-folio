@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Explaianble Entity Matching
+description: Explainable Machine Learning techniques for Entity Matching
 img:
 importance: 4
 category: work
