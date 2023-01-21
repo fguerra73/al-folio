@@ -25,3 +25,14 @@ State-of-the-art approaches based on Machine Learning (ML) and Deep Learning (DL
 Landmark Explanation: An Explainer for Entity Matching Models. CIKM 2021: 4680-4684
 	- 	Andrea Baraldi, Francesco Del Buono, Matteo Paganelli, Francesco Guerra:
 Using Landmarks for Explaining Entity Matching Models. EDBT 2021: 451-456
+
+
+#### Automatic techniques for EM
+The research studies the application of automated machine learning approaches (AutoML) for addressing the problem of Entity Matching (EM). This would make the existing, highly effective,
+Machine Learning (ML) and Deep Learning based approaches for EM usable also by non-expert users, who do not have the expertise to train and tune such complex systems. To address
+this issue, we introduce a new component, the EM adapter, to be pipelined with standard AutoML systems, that preprocesses the EM datasets to make them usable by automated approaches.
+
+- Matteo Paganelli, Francesco Del Buono, Marco Pevarello, Francesco Guerra, Maurizio Vincini:
+Automated Machine Learning for Entity Matching Tasks. EDBT 2021: 325-330
+
+#### Evaluating the EM process
