@@ -8,13 +8,15 @@ category: work
 ---
 
 
-Understanding if entries in a dataset refer to the same real-world entity (i.e., entity matching -- EM) is a challenging task even for human experts. Our research in this area concerns
+Understanding if entries in a dataset refer to the same real-world entity (i.e., entity matching -- EM) is a challenging task even for human experts. Our research in this area concerns the development of:
 
-1. techinques for performing explainable Entity Matching
+1. ML and DL based techinques for performing Explainable EM;
+2. Automatic techniques for performing EM;
+3. Usupervised evaluation of the EM.
 
 
 
-### Explainable Entity Matching
+#### Explainable Entity Matching
 State-of-the-art approaches based on Machine Learning (ML) and Deep Learning (DL) models are highly accurate but  suffer from low interpretability. From the user's perspective, these models act as oracles. This is a critical problem in many operational scenarios where traceability, scrutiny, and users' confidence in the model are fundamental requirements as well as the model accuracy.
 
 
