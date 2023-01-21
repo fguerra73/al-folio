@@ -41,7 +41,7 @@ Automated Machine Learning for Entity Matching Tasks. EDBT 2021: 325-330
 
 #### Evaluating the EM process
 
-Evaluation is a bottleneck in data integration processes: it is performed by domain experts through manual onerous data inspections. This task is particularly heavy in real business scenarios, where the large amount of data makes checking all integrated tuples infeasible. Our idea is to address this issue by providing the experts with **unsupervised measures**.
+Evaluation is a bottleneck in data integration processes: it is performed by domain experts through manual onerous data inspections. This task is particularly heavy in real business scenarios, where the large amount of data makes checking all integrated tuples infeasible. Our idea is to address this issue by providing the experts with **unsupervised measures**. The research is done with the University of Padua.
 
 - Matteo Paganelli, Francesco Del Buono, Francesco Guerra, Nicola Ferro:
 Evaluating the integration of datasets. SAC 2022: 347-356
