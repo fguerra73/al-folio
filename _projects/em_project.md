@@ -12,7 +12,7 @@ Understanding if entries in a dataset refer to the same real-world entity (i.e.,
 
 1. Explaining and making Explainable the Entity Matching process;
 2. Automatic techniques for performing EM;
-3. Usupervised evaluation of the EM.
+3. Unsupervised evaluation of the EM.
 
 
 
