@@ -20,7 +20,7 @@ Understanding if entries in a dataset refer to the same real-world entity (i.e.,
 State-of-the-art approaches based on Machine Learning (ML) and Deep Learning (DL) models are highly accurate but  suffer from low interpretability. From the user's perspective, these models act as oracles. This is a critical problem in many operational scenarios where traceability, scrutiny, and users' confidence in the model are fundamental requirements as well as the model accuracy.
 The research in this area concerned:
 
-- A multi-facet analysis of the components of pre-trained and fine-tuned BERT architectures applied to an EM task. 
+- A **multi-facet analysis** of the components of pre-trained and fine-tuned BERT architectures applied to an EM task. 
 	- Matteo Paganelli, Francesco Del Buono, Andrea Baraldi, Francesco Guerra:
 Analyzing How BERT Performs Entity Matching. Proc. VLDB Endow. 15(8): 1726-1738 (2022)
 
@@ -32,7 +32,7 @@ Using Landmarks for Explaining Entity Matching Models. EDBT 2021: 451-456
 
 
 #### Automatic techniques for EM
-The research studies the application of automated machine learning approaches (AutoML) for addressing the problem of Entity Matching (EM). This would make the existing, highly effective,
+The research studies the application of automated machine learning approaches (**AutoML**) for addressing the problem of Entity Matching (EM). This would make the existing, highly effective,
 Machine Learning (ML) and Deep Learning based approaches for EM usable also by non-expert users, who do not have the expertise to train and tune such complex systems. To address
 this issue, we introduce a new component, the EM adapter, to be pipelined with standard AutoML systems, that preprocesses the EM datasets to make them usable by automated approaches.
 
@@ -40,3 +40,10 @@ this issue, we introduce a new component, the EM adapter, to be pipelined with s
 Automated Machine Learning for Entity Matching Tasks. EDBT 2021: 325-330
 
 #### Evaluating the EM process
+
+Evaluation is a bottleneck in data integration processes: it is performed by domain experts through manual onerous data inspections. This task is particularly heavy in real business scenarios, where the large amount of data makes checking all integrated tuples infeasible. Our idea is to address this issue by providing the experts with **unsupervised measures**.
+
+- Matteo Paganelli, Francesco Del Buono, Francesco Guerra, Nicola Ferro:
+Evaluating the integration of datasets. SAC 2022: 347-356
+
+
