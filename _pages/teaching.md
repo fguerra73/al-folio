@@ -14,7 +14,7 @@ Organize your courses by years, topics, or universities, however you like!-->
 
 	
 ## Big Data and Text Analysis
-#### Corso di Laurea magistrake in Ingegneria Informatica (Master degree in Computer Engineering)
+#### Corso di Laurea Magistrale in Ingegneria Informatica (Master degree in Computer Engineering)
 
 
 ### Overview
