@@ -60,8 +60,9 @@
         - Explaining Entity Integration
         - Application of NLP techniques on structured data
         - Discovering and Summarizing the content of structured data
-    - title:  Data mining and analytics on big data
+    - title:  Data mining and analytics on big  and textual data
       items:
+        - Large Language Models for data and text analytics
         - Anomaly and Novelty Detection and explanation on time series
     - title: Keyword search on structured data
       items:
