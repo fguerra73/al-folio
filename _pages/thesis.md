@@ -17,6 +17,7 @@ Organize your courses by years, topics, or universities, however you like!-->
 - Matteo Paganelli (XXXIII Ciclo) 
 - Francesco Del Buono (XXXVI Ciclo)
 - Andrea Baraldi (XXXVII Ciclo)
+- Giacomo Guiduzzi (XXXVIII Ciclo)
 
 
 
