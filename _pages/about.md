@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm Full Professor at the Department of Engineering “Enzo Ferrari” from the University of Modena and Reggio Emilia, where he teaches Software Engineering and Big Data Analysis. 
 
-My research interests include **scalable data management and integration** (I'm working on the development of Machine Learning and Deep Learning explainable techniques to the Entity Resolution problem), **data mining and analytics on big data** (I'm working on techniques for anomaly and novelty detection, for supporting machine learning techniques in production), **semantic web** (I'm  involved in projects for the creation and alignment of ontologies), and  **keyword based searches on structured datasets**. 
+My research interests include **scalable data management and integration** (I'm working on the development of Machine Learning and Deep Learning explainable techniques to the Entity Resolution problem), **data mining and analytics on big data** (I'm working on techniques for anomaly and novelty detection, for supporting machine learning techniques in production), **semantic web** (I'm  involved in projects for the creation and alignment of ontologies), and  **keyword based searches on structured datasets** 
 
 I participated in European and national projects. In particular, I coordinated the KEYSTONE COST Action, years 2013-2017, (IC 1302 KEYSTONE COST Action– Semantic Keyword Search on Structured Data Sources), and the Re-search Alps (INEA/CEF/ICT/A2016/1296967) project, years 2017-2019. I was *Visiting Professor at the University of Rijeka* in 2019. I'm a *visiting reviewer* for the AI thesis at the University of Malta (2022-2024).
 
