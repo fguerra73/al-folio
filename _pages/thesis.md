@@ -10,12 +10,13 @@ nav_order: 5
 ## Advisor of PhD student (Doctorate Course in ICT)
 
 - NANA CARLOS (XXII ciclo -cotutor Ciclo)
-- ROTA SILVIA
-- PAGANELLI MATTEO
-- CONTALBO MICHELE LUCA
-- BENASSI RICCARDO
-- DEL BUONO FRANCESCO
-- GUIDUZZI GIACOMO
+- ROTA SILVIA (XXVI Ciclo - cotutor Ciclo)
+- PAGANELLI MATTEO (XXXIII Ciclo Ciclo)
+- CONTALBO MICHELE LUCA (XXXIX Ciclo Ciclo)
+- BENASSI RICCARDO (XXXIX Ciclo Ciclo)
+- BENASSI RICCARDO (XXXIX Ciclo Ciclo)
+- DEL BUONO FRANCESCO (XXXVI Ciclo Ciclo)
+- GUIDUZZI GIACOMO (XXXVIII Ciclo Ciclo)
 
 ## Advisor in Master Thesis (Dipartimento di Ingegneria "Enzo Ferrari")
 
