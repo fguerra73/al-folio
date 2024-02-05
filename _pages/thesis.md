@@ -9,7 +9,13 @@ nav_order: 5
 
 ## Advisor of PhD student (Doctorate Course in ICT)
 
-- FEDERICO MAZZARRI (XXXVIII Ciclo)
+- NANA CARLOS (XXII ciclo -cotutor Ciclo)
+- ROTA SILVIA
+- PAGANELLI MATTEO
+- CONTALBO MICHELE LUCA
+- BENASSI RICCARDO
+- DEL BUONO FRANCESCO
+- GUIDUZZI GIACOMO
 
 ## Advisor in Master Thesis (Dipartimento di Ingegneria "Enzo Ferrari")
 
