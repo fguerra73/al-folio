@@ -31,7 +31,9 @@ I participated in European and national projects. In particular, I coordinated t
 
 - Since November 2022, President of the bachelor and master's degree course councils in computer engineering at the Department of Engineering "Enzo Ferrari".
 
-- Since 2021, Coordinator of the curriculum of Computer Engineering and Science of the Doctorate Course in ICT at the University of Modena and Reggio Emilia.
+- Since February 2024, Rector's delegate to the ICT at the University of Modena and Reggio Emilia
+
+- Since 2021 to 2023, Coordinator of the curriculum of Computer Engineering and Science of the Doctorate Course in ICT at the University of Modena and Reggio Emilia.
 
 
 
