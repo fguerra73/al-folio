@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Panacea
-description: PRIN: PROGETTI DI RICERCA DI RILEVANTE INTERESSE NAZIONALE – Bando 2022
+description: PRIN: PROGETTI DI RICERCA DI RILEVANTE INTERESSE NAZIONALE Bando 2022
 img:
 importance: 1
 category: projects
