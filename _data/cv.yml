@@ -59,11 +59,13 @@
         - Machine Learning and Deep learning techniques for Entity Resolution
         - Explaining Entity Integration
         - Application of NLP techniques on structured data
-        - Discovering and Summarizing the content of structured data
+        - Discovering and Summarizing the content of structured data      
     - title:  Data mining and analytics on big  and textual data
       items:
         - Large Language Models for data and text analytics
         - Anomaly and Novelty Detection and explanation on time series
+        - Explainable time series analytics
+        - Fairness in ML
     - title: Keyword search on structured data
       items:
         - Techniques for searching keywords in relational multi-table database
