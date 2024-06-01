@@ -8,7 +8,7 @@ category: projects
 ---
 **Research Units:**
 University of Rome 3 
-University of Rome  "La Sapienza"
+University of Rome  La Sapienza
 University of Modena and Reggio Emilia
 
 **Duration**
