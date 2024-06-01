@@ -1,10 +1,10 @@
 ---
 layout: page
 title:  Resist0
-description: PR FESR 2021-27_EMILIA-ROMAGNA
+description: PR FESR 2021-27 EMILIA-ROMAGNA
 img:
 importance: 5
-category: projects
+category: interests
 ---
 **Research Units:**
 
