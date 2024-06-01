@@ -4,7 +4,7 @@ title:  Entity Matching
 description: Development of Machine Learning and Deep Learning Techniques for Entity Matching
 img:
 importance: 1
-category: research interest
+category: interests
 ---
 
 
