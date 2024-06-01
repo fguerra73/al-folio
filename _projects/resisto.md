@@ -4,10 +4,13 @@ title:  Resist0
 description: PR FESR 2021-27 EMILIA-ROMAGNA
 img:
 importance: 5
-category: interests
+category: projects
 ---
 **Research Units:**
-
+UNIBO - CIRI ICT
+UNIMORE - AIRI
+CONSORZIO T3 LAB
+ASSOCIAZIONE CLUST-ER INNOVAZION E NEI SERVIZI
 
 **Duration**
 October 2023 - April 2026
