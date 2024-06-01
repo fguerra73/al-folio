@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Panacea
-description: PRIN: PROGETTI DI RICERCA DI RILEVANTE INTERESSE NAZIONALE – Bando 2022
+title:  Resist0
+description: PR FESR 2021-27_EMILIA-ROMAGNA
 img:
 importance: 1
 category: projects
