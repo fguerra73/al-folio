@@ -4,7 +4,7 @@ title:  Time-series Analysis
 description: Techniques for analyzing time-series
 img:
 importance: 2
-category: work
+category: research interest
 ---
 
 Analysis of time series includes a large number research topics. In this field my research activity addresses issues related to: 
