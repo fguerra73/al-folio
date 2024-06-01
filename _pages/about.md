@@ -27,11 +27,14 @@ I participated in European and national projects. In particular, I coordinated t
 
 #### Accademic Position
 
-- Since September 2022, I'm Full Professor at the Department of Engineering “Enzo Ferrari”, of the University of Modena and Reggio Emilia.  I teach Software Engineering and Big Data Analysis.
+- Since February 2024, Rector's delegate to the ICT at the University of Modena and Reggio Emilia
+
 
 - Since November 2022, President of the bachelor and master's degree course councils in computer engineering at the Department of Engineering "Enzo Ferrari".
 
-- Since February 2024, Rector's delegate to the ICT at the University of Modena and Reggio Emilia
+- Since September 2022, I'm Full Professor at the Department of Engineering “Enzo Ferrari”, of the University of Modena and Reggio Emilia.  I teach Software Engineering and Big Data Analysis.
+
+
 
 - Since 2021 to 2023, Coordinator of the curriculum of Computer Engineering and Science of the Doctorate Course in ICT at the University of Modena and Reggio Emilia.
 
