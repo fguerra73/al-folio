@@ -3,13 +3,11 @@ layout: page
 title:  Resist0
 description: PR FESR 2021-27_EMILIA-ROMAGNA
 img:
-importance: 1
+importance: 2
 category: projects
 ---
 **Research Units:**
-University of Rome 3 
-University of Rome  "La Sapienza"
-University of Modena and Reggio Emilia
+
 
 **Duration**
 October 2023 - April 2026
