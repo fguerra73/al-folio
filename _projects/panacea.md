@@ -1,14 +1,14 @@
 ---
 layout: page
 title:  Panacea
-description: Techniques for analyzing time-series
+description: PRIN: PROGETTI DI RICERCA DI RILEVANTE INTERESSE NAZIONALE – Bando 2022
 img:
 importance: 1
 category: projects
 ---
 **Research Units:**
 University of Rome 3 
-University of Rome 2 "Tor Vergata"
+University of Rome  "La Sapienza"
 University of Modena and Reggio Emilia
 
 **Duration**
