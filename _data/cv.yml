@@ -30,18 +30,8 @@
 
 - title: Experience
   type: time_table
-  contents:
-      - title: Full Professor in Information Engineering
-      institution: University of Modena and Reggio Emilia, Italy
-      year: 2022 - 
-      <!--description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.-->
-      - title: Full Professor in Information Engineering
+  contents:zz
+    - title: Full Professor in Information Engineering
       institution: University of Modena and Reggio Emilia, Italy
       year: 2022 - 
       <!--description:
