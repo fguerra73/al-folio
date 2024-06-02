@@ -8,12 +8,12 @@ category: consulting
 ---
 
 ### Project Title: “Development of Studies and Prototype Software for Data Analysis”
-**Client:** Comune di Reggio Emilia 
-**Year:** 2016 
-**Details:** Created a book recommendation system and a georeferenced data analysis system using municipal data.
+**Client:** Comune di Reggio Emilia   
+**Year:** 2016  
+
 
 ---
 
 ### Project Title: “Identification of Innovative Solutions for Managing Spatial and Temporal Data”
-**Client:** Autorità di Bacino Distrettuale del Fiume Po
-**Year:** 2019
+**Client:** Autorità di Bacino Distrettuale del Fiume Po  
+**Year:** 2019  
