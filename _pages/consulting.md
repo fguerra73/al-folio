@@ -8,6 +8,14 @@ nav_order: 2
 display_categories: [consulting]
 horizontal: false
 ---
+Research and consultancy services to industries and public organizations in the following areas:
+
+- **Big Data Solutions:** Custom strategies for data storage, retrieval, analysis, and integration.
+- **Machine Learning Implementations:** From proof of concept to deployment in real-world applications.
+- **NLP Applications:** Advanced text analysis using the latest in NLP technologies, including LLMs (Large Language Models) and transformers.
+- **Process Optimization:** Workflow management and process mining to enhance operational efficiency.
+- **Advanced Data Analytics:** Leveraging AI, machine learning, and data mining for insightful data analysis.
+
 
 <!-- pages/projects.md -->
 <div class="projects">
