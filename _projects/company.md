@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Enterprise Data Analysis
-description: Consulting on company production and sales data
+description: Consulting on enterprise data
 img: 
 importance: 1
 category: consulting
@@ -16,4 +16,12 @@ category: consulting
 ### Project Title: “Advanced Data Analysis of Orders and Sales and Methods to Support Automatic Production Scheduling”
 **Client:** Italgraniti SpA  
 **Year:** 2020
+---
 
+### Project Title: “Analysis of Store Visits and Correlation with Sales”
+**Client:** Ceramiche POLIS SpA 
+**Year:** 2022
+
+### Project Title: “Analysis of the Quality of Experimentally Collected Data During the Alumina Sintering Process”
+**Client:** Bitossi  
+**Year:** 2023
