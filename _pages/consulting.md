@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
+title: consulting
+permalink: /consulting/
 description: .
 nav: true
 nav_order: 2
-display_categories: [interests, projects, consulting, past ]
+display_categories: [consulting]
 horizontal: false
 ---
 
