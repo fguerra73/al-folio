@@ -4,7 +4,7 @@ title: Data Analysis for Public Organizations
 description: 
 img: 
 importance: 2
-category: consulting
+category: archive
 ---
 
 ### Project Title: “Development of Studies and Prototype Software for Data Analysis”

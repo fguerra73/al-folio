@@ -4,7 +4,7 @@ title: Enterprise Data Analysis
 description: Consulting on enterprise data
 img: 
 importance: 1
-category: consulting
+category: archive
 ---
 
 ### Project Title: “Analysis of Time Series Related to Sales Points and Identification of Performance Indicators”

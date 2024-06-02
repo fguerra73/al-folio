@@ -5,7 +5,7 @@ permalink: /consulting/
 description: .
 nav: true
 nav_order: 2
-display_categories: [consulting]
+display_categories: [archive]
 horizontal: false
 ---
 Research and consultancy services to industries and public organizations in the following areas:
