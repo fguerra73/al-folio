@@ -14,7 +14,7 @@ Research and consultancy services to industries and public organizations in the 
 - **Machine Learning Implementations:** From proof of concept to deployment in real-world applications.
 - **NLP Applications:** Advanced text analysis using the latest in NLP technologies, including LLMs (Large Language Models) and transformers.
 
-- **Advanced Data Analytics:** Leveraging AI, machine learning, and data mining for insightful data analysis. Explainable AI, Fairness.
+- **Advanced Data Analytics:** Leveraging AI, machine learning, and data mining for insightful data analysis. Explainable AI, Fairness, Time-series analytics.
 
 
 <!-- pages/projects.md -->
