@@ -97,8 +97,8 @@ a supporto del Search Engine
 - ASIA BERGAMINI  : Data Science & HR Analytics: Implementazione di una soluzione end-to-end per l'analisi e il forecast dei dati delle risorse umane in Coopservice., (2022/2023)
 - RICCARDO BENASSI  : Valutare l'impatto di gruppi di parole per motivare le risposte dei modelli per Entity Matching, (2022/2023)
 - DAMIANO SOLERTE  : Apache Spark GPU: Elaborazione rapida di dati su GPU attraverso le librerie RAPIDS, (2022/2023)
-- DAMIANO SOLERTE : Apache Spark GPU: Elaborazione rapida di dati su GPU attraverso le librerie RAPIDS, (2022/2023)
-- DAMIANO SOLERTE : Apache Spark GPU: Elaborazione rapida di dati su GPU attraverso le librerie RAPIDS, (2022/2023)
+- PIETRO BIZZARRI : Analisi Dell'Offerta E Previsione Della Domanda Di Prestazioni Di Specialistica Ambulatoriale: Sviluppo Di Una Soluzione Analytics Per Una Struttura Sanitaria., (2022/2023)
+- DAVIDE CORRADI : Sviluppo Di Un Sistema Di Log Management A Supporto Della Gestione Dell'Impresa, (2022/2023)
 
 ## Advisor in Bachelor Thesis (Dipartimento di Ingegneria "Enzo Ferrari")
 
@@ -316,3 +316,30 @@ Il Piedibus del Comune di Noceto
 201.    ANDREA GRANDI: Sviluppo di una Applicazione per la Ricerca Documentale basata su Apache Solr, a.a. (2022/2023)
 202.    NICOLA MORELLI: Estrazione di dati bibliometrici dalla banca dati Scopus, a.a. (2022/2023)
 203.    ALBERTO VENTURELLI: "DATAD - Ground Control Station per UAV", a.a. (2022/2023)
+204.   FILIPPO FERRARI: Analizzare Le Recensioni Utilizzando L'Elaborazione Del Linguaggio Naturale (Nlp), a.a. (2022/2023)
+205.   MATTEO BARTOLOMEO: Sviluppo di un applicazione meteo basata su microservizi con l'uso del Framework Spring, a.a. (2022/2023)
+206.   BAX GIULIA: Studio e sviluppo di strumenti per l'analisi e validazione di un'interfaccia WPF, a.a. (2022/2023)
+207.   CILURSO SIMONE: Progettazione e Sviluppo di nowmyplace.com, a.a. (2022/2023)
+208.   FEDERICO MELIS: Siti Web con Jekyll e GitHub Pages: Progettazione e Sviluppo di Script di Automazione per l'Aggiornamento dei Contenuti, a.a. (2022/2023)
+209.   GIOVANNI MUZIO: Analisi di GitHub Copilot come strumento per la generazione di codice, a.a. (2022/2023)
+210.   LUCA POZZI: Spring Framework e Spring MVC, a.a. (2022/2023)
+211.   LUCA VILLANI: Mendix: Low Code nelle PMI, a.a. (2022/2023)
+212.   MARCO VITALE: Sviluppo e gestione di reti aziendali: esperienze pratiche e sfide, a.a. (2022/2023)
+213.   ALESSANDRA BENASSI: Progetto e sviluppo di un ecosistema di elementi software per il monitoraggio di turbine eoliche, a.a. (2022/2023)
+214.   MATTIA BENATI: Swing e l'Evoluzione dell'Interfaccia Grafica: Ottimizzazione e Miglioramento dell'Esperienza Utente, a.a. (2022/2023)
+215.   GUIDO BENEVELLI: Universal Manufacturing Execution System: analisi e sviluppo di una nuova tipologia di MES, a.a. (2022/2023)
+216.   DAVIDE BORELLI: Sviluppo backend in Python per applicazione multipiattaforma, a.a. (2022/2023)
+217.   MICHAEL CIANO: Semplicità ed Efficienza nei Framework Javascript: Un'analisi di Vue.js e altri strumenti moderni, a.a. (2022/2023)
+218.   GIULIO MANTOVI: Classificazione musicale: machine learning ed elaborazione del linguaggio naturale, a.a. (2022/2023)
+219.   EMANUELE PRATO: Kotlin: i vantaggi della programmazione multipiattaforma, a.a. (2022/2023)
+220.   STEFANO ROTEGLIA: WAREHOUSE MANAGER: Software per la gestione di un magazzino auomatico, a.a. (2022/2023)
+221.   PAL AMRIT SINGH: NHibernate, a.a. (2022/2023)
+222.   NICOLÒ DAVOLI: Software Container: Storia, Evoluzione e Impatto nella Moderna Ingegneria Informatica
+, a.a. (2022/2023)
+223.   ANDREA MENOZZI: Sviluppo Integrato: Confronto, Ottimizzazione e Analisi dei Dati Accademici con Applicazione, Web Page e Python, a.a. (2022/2023)
+224.   DAVIDE ZANNI: Integrazione del Framework Spring nelle Architetture Serverless
+, a.a. (2022/2023)
+225.   DAVIDE BILARDELLO: Progettazione visuale di obiettivi in Minecraft: UltimateAdvancementGenerator
+, a.a. (2022/2023)
+226.   SAMUELE COSTANTINI: Da Web a Mobile: sfruttare il Framework Apache Cordova per lo sviluppo di applicazioni ibride
+, a.a. (2022/2023)
